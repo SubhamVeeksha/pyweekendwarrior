@@ -1,3 +1,4 @@
+# pyweekendwarrior
 # 🧮 Python Calculator App
 
 A simple console-based calculator app written in Python. Supports basic operations: addition, subtraction, multiplication, and division.
@@ -17,4 +18,4 @@ A simple console-based calculator app written in Python. Supports basic operatio
 ## ▶️ Run It
 ```bash
 python calculator.py
-# pyweekendwarrior
+
